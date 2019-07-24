@@ -2,7 +2,13 @@
 Script para la firma de archivos con sello de tiempo sinpe
 
 <hr>
+<strong> Ejemplo de uso: </strong>
 
+```bash
+sh sello.sh tarea1.tar.gz
+```
+
+<hr>
 <strong> Resumen del contenido: </strong>
 
 ```bash
