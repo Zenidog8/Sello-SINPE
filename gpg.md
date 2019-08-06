@@ -8,7 +8,7 @@ gpg --fingerprint zenidog@zenidog.com
 ```
 # Exportar la llave a un archivo para recuperar en caso de pérdida
 ```bash
-gpg --export-keys --armor zenidog@zenidog.com > pubkey.asc
+gpg --export --armor zenidog@zenidog.com > pubkey.asc
 ```
 # Publica la llave en el servidor del mit
 ```bash
